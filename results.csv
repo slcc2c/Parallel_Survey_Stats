@@ -16,24 +16,24 @@ Q1,Q2,Q3,Q4,Q5,Q6,Q7
 9,9,8,9,It was fun interacting with classmates,There wasn't anything I didn't like,No
 8,10,9,10,Nice understanding of the basics,Wasn't as deep into Parallel programming as I thought it was,Go deeper
 2,1,3,4,It was new and interesting,Lack of information. Quiz was hard and I feel the lecture material didn't coincide with the quiz.,Spend more time and give advance notice of the quiz. 
-9,9,8,10,It is a really interesting topic and was explained in a simple yet informative way,"Some of the tasks, such as binary was difficult with limited knowledge",N/A
+9,9,8,10,It is a really interesting topic and was explained in a simple yet informative way,"Some of the tasks, such as binary was difficult with limited knowledge",.
 6,8,7,8,It gives us a preview about the operating system knowledge and help us understand and visualize what thread and race condition is. ,The way we implement it into our project. Since we are not very familiar with it. ,Make another project just for the parallel maybe an easier one
 9,9,7,8,He broke down all of the steps on how to do it correctly,THe complexity of solving the coding for outputs of binary trees,nope
 2,5,10,5,It's interesting,The confusion,Better lecture on material. The quiz on always for from material.
-8,9,7,7,N/A,It's hard to understand,N/A
-7,9,1,3,I liked the concept,The lack of detail and lack of time.,N/A
-9,8,7,7,Learning new stuff,THe game was kinda stupid but I respect the thought,N/A
+8,9,7,7,.,It's hard to understand,.
+7,9,1,3,I liked the concept,The lack of detail and lack of time.,.
+9,8,7,7,Learning new stuff,THe game was kinda stupid but I respect the thought,.
 7,7,5,5,Introducing a tipic I had never heard of before,I feel like there is a lot more depth to the subject that wasn't explored.,Possible an exam dedicated to parallel programming.
 10,9,9,5,Learn more thing. Can communicate w/ classmate.,The professor went through lecture a little bit fast but I really like this class,No!
 5,7,6,5,LEarning how to make code run much faster. ,How quickly it went,More time spent on topics.
 9,10,10,10,Exercises and code examples,More time with syntax. Maybve a practice program,practice programs. more time. 
 6,8,4,4,Interesting and applicable,Very rushed,Take more time to show examples w/ locks and restrictions etc
 8,8,7,9,I liked the practical aspects-parallel programming is interesting and the prof got the ideas across well,The merge sort game seemed pointless (could have just not been my learning style),More visuals like the merge sort diagram
-7,7,5,7,"easy to follow for the most part, went back and parallelized old tasks to make them more effecient; lots of examples","section of reduction was pretty short, difference between that & atomic did not feel accurately explained. ",N/A
+7,7,5,7,"easy to follow for the most part, went back and parallelized old tasks to make them more effecient; lots of examples","section of reduction was pretty short, difference between that & atomic did not feel accurately explained. ",.
 7,7,6,7,It was interesting,It's a litte challenging,better slides would help with more details
-1,5,1,1,N/A,Source Code didn't work. Didn't see any difference in the debugger,get rid of it
+1,5,1,1,.,Source Code didn't work. Didn't see any difference in the debugger,get rid of it
 4,5,3,5,I am at least aware of how much I setill need to learn on the subject,It is alternately self evident or difficult to comprehend; not sure,None on hand
 9,10,9,10,Very informative and interesting,Got confusing at times,"Slow down on the Queens and Merge sort code, felt a bit rushed when actually showing code"
 6,7,6,8,I liked the ways to parallel code,The confusion at what can and can't be parallelized,More examples
 2,2,2,2,saves the time makes solutions run faster,code is complex,need spend more time
-10,10,9,7,N/A,hard to understand,N/A
+10,10,9,7,.,hard to understand,.
